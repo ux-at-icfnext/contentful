@@ -29,6 +29,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-datapage-generator
 
 # Contentful
 contentful:
@@ -48,3 +49,15 @@ contentful:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Generate blog pages
+#page_gen-dirs: false
+
+page_gen:
+- data: 'site.data.contentful.demo.blogPost'
+  template: 'blog'
+  dir: "_pages"
+  index_files: false
+  name: 'title'
+  title: 'title'
+  extension: .md

@@ -3,10 +3,11 @@ blogPost:
 - sys:
     id: 3gDXw8qyoLuLsIK3UQAm9g
     created_at: !ruby/object:DateTime 2021-08-19 17:07:05.636000000 Z
-    updated_at: !ruby/object:DateTime 2022-05-30 05:02:36.282000000 Z
+    updated_at: !ruby/object:DateTime 2022-05-30 05:47:01.453000000 Z
     content_type_id: blogPost
-    revision: 3
+    revision: 4
   title: My First Post
+  link: my-first-post
   short_description: welcome to my world... I am a kitty on the loose
   body:
     data: {}
@@ -317,7 +318,6 @@ blogPost:
         nodeType: text
       nodeType: paragraph
     nodeType: document
-  slug: my-first-post
 - sys:
     id: 1nrixrORl6iSyktS8mgOCS
     created_at: !ruby/object:DateTime 2022-05-29 20:12:09.668000000 Z
@@ -339,7 +339,7 @@ blogPost:
         nodeType: text
       nodeType: paragraph
     nodeType: document
-  slug: a-rainy-sunday
+  link: a-rainy-sunday
 product:
 - sys:
     id: 7CL5fIesZNAKt6M8nkKF9s
