@@ -51,13 +51,10 @@ contentful:
 #   - vendor/ruby/
 
 # Generate blog pages
-#page_gen-dirs: false
+page_gen-dirs: false
 
 page_gen:
 - data: 'site.data.contentful.demo.blogPost'
   template: 'blog'
-  dir: "_pages"
-  index_files: false
+  dir: "blog"
   name: 'title'
-  title: 'title'
-  extension: .md

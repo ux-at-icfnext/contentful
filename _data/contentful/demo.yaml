@@ -1,6 +1,37 @@
 ---
 blogPost:
 - sys:
+    id: 58za8Qb9b9ahqvxcTBTESb
+    created_at: !ruby/object:DateTime 2022-05-30 06:05:14.325000000 Z
+    updated_at: !ruby/object:DateTime 2022-05-30 06:19:02.902000000 Z
+    content_type_id: blogPost
+    revision: 5
+  title: This is for you Christine
+  link: this-is-for-you-christine
+  short_description: A working blog using Contentful and Jekyll
+  body:
+    nodeType: document
+    data: {}
+    content:
+    - nodeType: paragraph
+      data: {}
+      content:
+      - nodeType: text
+        value: 'Here it is... a wonderful thing. A headless static site-generated
+          blog. My JAMstack, you ask: Contentful - CMS, Github - repository, Jekyll
+          - SSG, Netlify - hosting. The cost of running. ABSOLUTELY FREE! Time to
+          set up... once I knew what to do, we won''t discuss research time... but
+          we can say I deserve another 3-day weekend. Aside... learned that I can
+          understand developers speaking in Portuguese... cause, yes, that''s what
+          it took! Anyway... time to set up... under an hour. '
+        marks: []
+        data: {}
+      - nodeType: text
+        value: You're welcome! Of course, you are asking why this is one large block
+          paragraph? I still have to figure out displaying rich text.
+        marks: []
+        data: {}
+- sys:
     id: 3gDXw8qyoLuLsIK3UQAm9g
     created_at: !ruby/object:DateTime 2021-08-19 17:07:05.636000000 Z
     updated_at: !ruby/object:DateTime 2022-05-30 05:47:01.453000000 Z
