@@ -5,7 +5,7 @@ layout: default
 
 
 <div class="intro" style="font-size: 1.25rem;"> {{ page.short_description }}</div>
-<div class="article" style="line-height: 1.5rem; padding-top: 1rem;">{{ page.body.content[0].content[0].value }}</div>
+<div class="article" style="line-height: 1.5rem; padding-top: 1rem;">{{ page.long_text | markdownify }}</div>
 
 <div class="foot" style="padding-top: 4rem;">
     <p>< <a href="/">return home</a></p>
