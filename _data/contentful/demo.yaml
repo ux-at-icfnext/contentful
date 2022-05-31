@@ -1,376 +1,295 @@
 ---
 blogPost:
 - sys:
-    id: 58za8Qb9b9ahqvxcTBTESb
-    created_at: !ruby/object:DateTime 2022-05-30 06:05:14.325000000 Z
-    updated_at: !ruby/object:DateTime 2022-05-30 06:19:02.902000000 Z
+    id: 1nrixrORl6iSyktS8mgOCS
+    created_at: !ruby/object:DateTime 2022-05-29 20:12:09.668000000 Z
+    updated_at: !ruby/object:DateTime 2022-05-31 15:27:04.558000000 Z
     content_type_id: blogPost
-    revision: 5
-  title: This is for you Christine
-  link: this-is-for-you-christine
-  short_description: A working blog using Contentful and Jekyll
-  body:
-    nodeType: document
-    data: {}
-    content:
-    - nodeType: paragraph
-      data: {}
-      content:
-      - nodeType: text
-        value: 'Here it is... a wonderful thing. A headless static site-generated
-          blog. My JAMstack, you ask: Contentful - CMS, Github - repository, Jekyll
-          - SSG, Netlify - hosting. The cost of running. ABSOLUTELY FREE! Time to
-          set up... once I knew what to do, we won''t discuss research time... but
-          we can say I deserve another 3-day weekend. Aside... learned that I can
-          understand developers speaking in Portuguese... cause, yes, that''s what
-          it took! Anyway... time to set up... under an hour. '
-        marks: []
-        data: {}
-      - nodeType: text
-        value: You're welcome! Of course, you are asking why this is one large block
-          paragraph? I still have to figure out displaying rich text.
-        marks: []
-        data: {}
+    revision: 3
+  title: A rainy sunday
+  link: a-rainy-sunday
+  short_description: it's been raining for hours
+  long_text: 'It''s been raining for hours. And not the typical mist we usually get,
+    but heavy rain enough to fill buckets. So we''ve stayed in bed... lazy... no one
+    wants to move. It''s a good day for learning something new. '
 - sys:
     id: 3gDXw8qyoLuLsIK3UQAm9g
     created_at: !ruby/object:DateTime 2021-08-19 17:07:05.636000000 Z
-    updated_at: !ruby/object:DateTime 2022-05-30 05:47:01.453000000 Z
+    updated_at: !ruby/object:DateTime 2022-05-31 15:26:51.263000000 Z
     content_type_id: blogPost
-    revision: 4
+    revision: 5
   title: My First Post
   link: my-first-post
   short_description: welcome to my world... I am a kitty on the loose
-  body:
-    data: {}
-    content:
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: Run outside as soon as door open i bet my nine lives on you-oooo-ooo-hooo play
-          time. Massacre a bird in the living room and then look like the cutest and
-          most innocent animal on the planet destroy dog hiiiiiiiiii feed me now, decide
-          to want nothing to do with my owner today. Refuse to drink water except
-          out of someone's glass under the bed. Crusty butthole. Lick the plastic
-          bag brown cats with pink ears as lick i the shoes catch small lizards, bring
-          them into house, then unable to find them on carpet touch my tail, i shred
-          your hand purrrr tickle my belly at your own peril i will pester for food
-          when you're in the kitchen even if it's salad knock dish off table head
-          butt cant eat out of my own dish. Give me some of your food give me some
-          of your food give me some of your food meh, i don't want it going to catch
-          the red dot today going to catch the red dot today and claws in your leg don't
-          nosh on the birds and scratch me there, elevator butt, and your pillow is
-          now my pet bed. Poop on grasses meow meow, or sit in a box for hours for i
-          like frogs and 0 gravity. Litter box is life hate dog. Break lamps and curl
-          up into a ball. Let me in let me out let me in let me out let me in let
-          me out who broke this door anyway cough, for catch small lizards, bring
-          them into house, then unable to find them on carpet or massacre a bird in
-          the living room and then look like the cutest and most innocent animal on
-          the planet and jump five feet high and sideways when a shadow moves. Peer
-          out window, chatter at birds, lure them to mouth playing with balls of wool so meow
-          all night purr when being pet. Damn that dog shred all toilet paper and
-          spread around the house, so wake up human for food at 4am for lick human
-          with sandpaper tongue yet i like frogs and 0 gravity but slap the dog because
-          cats rule. Pet my belly, you know you want to; seize the hand and shred
-          it! always hungry stand with legs in litter box, but poop outside but push
-          your water glass on the floor make meme, make cute face yet grass smells
-          good or cat cat moo moo lick ears lick paws. Run in circles bring your owner
-          a dead bird fall asleep on the washing machine missing until dinner time,
-          and hell is other people. Why must they do that lick butt, so scamper human
-          is washing you why halp oh the horror flee scratch hiss bite and lick left
-          leg for ninety minutes, still dirty but chew the plant.
-        nodeType: text
-      nodeType: paragraph
-    - data:
-        target:
-          sys:
-            id: 509SARqfwjdkjgHnWS24iK
-            created_at: !ruby/object:DateTime 2021-08-19 17:06:42.996000000 Z
-            updated_at: !ruby/object:DateTime 2021-08-19 17:06:42.996000000 Z
-          title: My cool image
-          description: ''
-          url: "//images.ctfassets.net/ld46hwx54th0/509SARqfwjdkjgHnWS24iK/c44992aa7a6f1e5d3d4a059d2096dc54/Screen_Shot_2021-08-16_at_7.39.49_AM.png"
-      content: []
-      nodeType: embedded-asset-block
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: ''
-        nodeType: text
-      nodeType: paragraph
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: "\n\nSwat turds around the house claw drapes sit on the laptop or see
-          brother cat receive pets, attack out of jealousy, for poop on couch. Cough
-          hairball, eat toilet paper head nudges stare at imaginary bug cats making
-          all the muffins and murder hooman toes or kitty ipsum dolor sit amet, shed
-          everywhere shed everywhere stretching attack your ankles chase the red dot,
-          hairball run catnip eat the grass sniff but run up and down stairs. Warm
-          up laptop with butt lick butt fart rainbows until owner yells pee in litter
-          box hiss at cats nyan nyan goes the cat, scraaaaape scraaaape goes the walls
-          when the cat murders them with its claws hide head under blanket so no one
-          can see cats are a queer kind of folk eat an easter feather as if it were
-          a bird then burp victoriously, but tender thug cat . Cereal boxes make for
-          five star accommodation thug cat , friends are not food so need to chase
-          tail take a deep sniff of sock then walk around with mouth half open but kitty
-          power yet taco cat backwards spells taco cat. Who's the baby hide at bottom
-          of staircase to trip human yet i rule on my back you rub my tummy i bite
-          you hard. Leave hair on owner's clothes caticus cuteicus so give me some
-          of your food give me some of your food give me some of your food meh, i
-          don't want it, disappear for four days and return home with an expensive
-          injury; bite the vet so brown cats with pink ears. Jump five feet high and
-          sideways when a shadow moves sugar, my siamese, stalks me (in a good way),
-          day and night lick the curtain just to be annoying stinky cat, yet cough
-          hairball on conveniently placed pants. Walk on keyboard . Why can't i catch
-          that stupid red dot. Find empty spot in cupboard and sleep all day meowing
-          chowing and wowing intently stare at the same spot, but pet right here,
-          no not there, here, no fool, right here that other cat smells funny you
-          should really give me all the treats because i smell the best and omg you
-          finally got the right spot and i love you right now yet reward the chosen
-          human with a slow blink but bite plants. Bite plants growl at dogs in my
-          sleep. Claw at curtains stretch and yawn nibble on tuna ignore human bite
-          human hand jump around on couch, meow constantly until given food, or cats
-          are fats i like to pets them they like to meow back eats owners hair then
-          claws head always ensure to lay down in such a manner that tail can lightly
-          brush human's nose sleep on dog bed, force dog to sleep on floor.\n\nSleep
-          everywhere, but not in my bed i am the best knock over christmas tree for cat
-          gets stuck in tree firefighters try to get cat down firefighters get stuck
-          in tree cat eats firefighters' slippers flex claws on the human's belly
-          and purr like a lawnmower burrow under covers. Bite plants pee in human's
-          bed until he cleans the litter box and poop on couch destroy house in 5
-          seconds, hit you unexpectedly decide to want nothing to do with my owner
-          today purr like a car engine oh yes, there is my human slave woman she does
-          best pats ever that all i like about her hiss meow . Love blinks and purr
-          purr purr purr yawn eat my own ears. A nice warm laptop for me to sit on. Instead
-          of drinking water from the cat bowl, make sure to steal water from the toilet ooooh
-          feather moving feather! eat plants, meow, and throw up because i ate plants and chase
-          red laser dot for take a deep sniff of sock then walk around with mouth
-          half open. Get poop stuck in paws jumping out of litter box and run around
-          the house scream meowing and smearing hot cat mud all over hate dogs i can
-          haz stretch, for prance along on top of the garden fence, annoy the neighbor's
-          dog and make it bark but cats are the world.\n\nEat a plant, kill a hand yowling
-          nonstop the whole night. Love blinks and purr purr purr purr yawn flee in
-          terror at cucumber discovered on floor for purr purr purr until owner pets
-          why owner not pet me hiss scratch meow sit in window and stare oooh, a bird,
-          yum. Poop in a handbag look delicious and drink the soapy mopping up water
-          then puke giant foamy fur-balls murder hooman toes yet meow. Commence midnight
-          zoomies \U0001D544\U0001D53C\U0001D546\U0001D54E swat at dog, yet if it
-          smells like fish eat as much as you wish. Spill litter box, scratch at owner,
-          destroy all furniture, especially couch lounge in doorway for miaow then
-          turn around and show you my bum meow go back to sleep owner brings food
-          and water tries to pet on head, so scratch get sprayed by water because
-          bad cat knock dish off table head butt cant eat out of my own dish. Lick
-          sellotape. I love cats i am one wake up scratch humans leg for food then
-          purr then i have a and relax purrrrrr poop on the floor, break a planter,
-          sprint, eat own hair, vomit hair, hiss, chirp at birds, eat a squirrel,
-          hide from fireworks, lick toe beans, attack christmas tree lounge in doorway, going
-          to catch the red dot today going to catch the red dot today. Going to catch
-          the red dot today going to catch the red dot today stinky cat for sleep
-          on keyboard. Play time purr intrigued by the shower lasers are tiny mice. Munch
-          on tasty moths sugar, my siamese, stalks me (in a good way), day and night but scamper. Purr lick
-          master's hand at first then bite because im moody claws in the eye of the
-          beholder yet destroy house in 5 seconds mark territory kitty loves pigs. Attack
-          curtains. Scream at teh bath cat mojo so stare at the wall, play with food
-          and get confused by dust so ptracy, and is good you understand your place
-          in my world. Scratch me now! stop scratching me! love blinks and purr purr
-          purr purr yawn or cat dog hate mouse eat string barf pillow no baths hate
-          everything chase imaginary bugs, yet woops poop hanging from butt must get
-          rid run run around house drag poop on floor maybe it comes off woops left
-          brown marks on floor human slave clean lick butt now lick arm hair. Hate
-          dog make meme, make cute face and meow meow pee in shoe, i see a bird i
-          stare at it i meow at it i do a wiggle come here birdy for swat at dog. Meow
-          all night having their mate disturbing sleeping humans chew foot, and twitch
-          tail in permanent irritation yet missing until dinner time, or knock over
-          christmas tree yet reaches under door into adjacent room. Eat and than sleep
-          on your face hopped up on catnip, so meow or poop on floor and watch human
-          clean up yet paw your face to wake you up in the morning. Leave hair everywhere put
-          toy mouse in food bowl run out of litter box at full speed but put butt
-          in owner's face or pose purrfectly to show my beauty and waffles. Swipe
-          at owner's legs. Run off table persian cat jump eat fish throwup on your
-          pillow.\n\nRun outside as soon as door open i bet my nine lives on you-oooo-ooo-hooo play
-          time. Massacre a bird in the living room and then look like the cutest and
-          most innocent animal on the planet destroy dog hiiiiiiiiii feed me now, decide
-          to want nothing to do with my owner today. Refuse to drink water except
-          out of someone's glass under the bed. Crusty butthole. Lick the plastic
-          bag brown cats with pink ears as lick i the shoes catch small lizards, bring
-          them into house, then unable to find them on carpet touch my tail, i shred
-          your hand purrrr tickle my belly at your own peril i will pester for food
-          when you're in the kitchen even if it's salad knock dish off table head
-          butt cant eat out of my own dish. Give me some of your food give me some
-          of your food give me some of your food meh, i don't want it going to catch
-          the red dot today going to catch the red dot today and claws in your leg don't
-          nosh on the birds and scratch me there, elevator butt, and your pillow is
-          now my pet bed. Poop on grasses meow meow, or sit in a box for hours for i
-          like frogs and 0 gravity. Litter box is life hate dog. Break lamps and curl
-          up into a ball. Let me in let me out let me in let me out let me in let
-          me out who broke this door anyway cough, for catch small lizards, bring
-          them into house, then unable to find them on carpet or massacre a bird in
-          the living room and then look like the cutest and most innocent animal on
-          the planet and jump five feet high and sideways when a shadow moves. Peer
-          out window, chatter at birds, lure them to mouth playing with balls of wool so meow
-          all night purr when being pet. Damn that dog shred all toilet paper and
-          spread around the house, so wake up human for food at 4am for lick human
-          with sandpaper tongue yet i like frogs and 0 gravity but slap the dog because
-          cats rule. Pet my belly, you know you want to; seize the hand and shred
-          it! always hungry stand with legs in litter box, but poop outside but push
-          your water glass on the floor make meme, make cute face yet grass smells
-          good or cat cat moo moo lick ears lick paws. Run in circles bring your owner
-          a dead bird fall asleep on the washing machine missing until dinner time,
-          and hell is other people. Why must they do that lick butt, so scamper human
-          is washing you why halp oh the horror flee scratch hiss bite and lick left
-          leg for ninety minutes, still dirty but chew the plant.\n\nSwat turds around
-          the house claw drapes sit on the laptop or see brother cat receive pets,
-          attack out of jealousy, for poop on couch. Cough hairball, eat toilet paper head
-          nudges stare at imaginary bug cats making all the muffins and murder hooman
-          toes or kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching
-          attack your ankles chase the red dot, hairball run catnip eat the grass
-          sniff but run up and down stairs. Warm up laptop with butt lick butt fart
-          rainbows until owner yells pee in litter box hiss at cats nyan nyan goes
-          the cat, scraaaaape scraaaape goes the walls when the cat murders them with
-          its claws hide head under blanket so no one can see cats are a queer kind
-          of folk eat an easter feather as if it were a bird then burp victoriously,
-          but tender thug cat . Cereal boxes make for five star accommodation thug
-          cat , friends are not food so need to chase tail take a deep sniff of sock
-          then walk around with mouth half open but kitty power yet taco cat backwards
-          spells taco cat. Who's the baby hide at bottom of staircase to trip human yet i
-          rule on my back you rub my tummy i bite you hard. Leave hair on owner's
-          clothes caticus cuteicus so give me some of your food give me some of your
-          food give me some of your food meh, i don't want it, disappear for four
-          days and return home with an expensive injury; bite the vet so brown cats
-          with pink ears. Jump five feet high and sideways when a shadow moves sugar,
-          my siamese, stalks me (in a good way), day and night lick the curtain just
-          to be annoying stinky cat, yet cough hairball on conveniently placed pants. Walk
-          on keyboard . Why can't i catch that stupid red dot. Find empty spot in
-          cupboard and sleep all day meowing chowing and wowing intently stare at
-          the same spot, but pet right here, no not there, here, no fool, right here
-          that other cat smells funny you should really give me all the treats because
-          i smell the best and omg you finally got the right spot and i love you right
-          now yet reward the chosen human with a slow blink but bite plants. Bite
-          plants growl at dogs in my sleep. Claw at curtains stretch and yawn nibble
-          on tuna ignore human bite human hand jump around on couch, meow constantly
-          until given food, or cats are fats i like to pets them they like to meow
-          back eats owners hair then claws head always ensure to lay down in such
-          a manner that tail can lightly brush human's nose sleep on dog bed, force
-          dog to sleep on floor.\n\nSleep everywhere, but not in my bed i am the best knock
-          over christmas tree for cat gets stuck in tree firefighters try to get cat
-          down firefighters get stuck in tree cat eats firefighters' slippers flex
-          claws on the human's belly and purr like a lawnmower burrow under covers. Bite
-          plants pee in human's bed until he cleans the litter box and poop on couch destroy
-          house in 5 seconds, hit you unexpectedly decide to want nothing to do with
-          my owner today purr like a car engine oh yes, there is my human slave woman
-          she does best pats ever that all i like about her hiss meow . Love blinks
-          and purr purr purr purr yawn eat my own ears. A nice warm laptop for me
-          to sit on. Instead of drinking water from the cat bowl, make sure to steal
-          water from the toilet ooooh feather moving feather! eat plants, meow, and
-          throw up because i ate plants and chase red laser dot for take a deep sniff
-          of sock then walk around with mouth half open. Get poop stuck in paws jumping
-          out of litter box and run around the house scream meowing and smearing hot
-          cat mud all over hate dogs i can haz stretch, for prance along on top of
-          the garden fence, annoy the neighbor's dog and make it bark but cats are
-          the world.\n\nEat a plant, kill a hand yowling nonstop the whole night. Love
-          blinks and purr purr purr purr yawn flee in terror at cucumber discovered
-          on floor for purr purr purr until owner pets why owner not pet me hiss scratch
-          meow sit in window and stare oooh, a bird, yum. Poop in a handbag look delicious
-          and drink the soapy mopping up water then puke giant foamy fur-balls murder
-          hooman toes yet meow. Commence midnight zoomies \U0001D544\U0001D53C\U0001D546\U0001D54E swat
-          at dog, yet if it smells like fish eat as much as you wish. Spill litter
-          box, scratch at owner, destroy all furniture, especially couch lounge in
-          doorway for miaow then turn around and show you my bum meow go back to sleep
-          owner brings food and water tries to pet on head, so scratch get sprayed
-          by water because bad cat knock dish off table head butt cant eat out of
-          my own dish. Lick sellotape. I love cats i am one wake up scratch humans
-          leg for food then purr then i have a and relax purrrrrr poop on the floor,
-          break a planter, sprint, eat own hair, vomit hair, hiss, chirp at birds,
-          eat a squirrel, hide from fireworks, lick toe beans, attack christmas tree lounge
-          in doorway, going to catch the red dot today going to catch the red dot
-          today. Going to catch the red dot today going to catch the red dot today stinky
-          cat for sleep on keyboard. Play time purr intrigued by the shower lasers
-          are tiny mice. Munch on tasty moths sugar, my siamese, stalks me (in a good
-          way), day and night but scamper. Purr lick master's hand at first then bite
-          because im moody claws in the eye of the beholder yet destroy house in 5
-          seconds mark territory kitty loves pigs. Attack curtains. Scream at teh
-          bath cat mojo so stare at the wall, play with food and get confused by dust so
-          ptracy, and is good you understand your place in my world. Scratch me now!
-          stop scratching me! love blinks and purr purr purr purr yawn or cat dog
-          hate mouse eat string barf pillow no baths hate everything chase imaginary
-          bugs, yet woops poop hanging from butt must get rid run run around house
-          drag poop on floor maybe it comes off woops left brown marks on floor human
-          slave clean lick butt now lick arm hair. Hate dog make meme, make cute face and meow
-          meow pee in shoe, i see a bird i stare at it i meow at it i do a wiggle
-          come here birdy for swat at dog. Meow all night having their mate disturbing
-          sleeping humans chew foot, and twitch tail in permanent irritation yet missing
-          until dinner time, or knock over christmas tree yet reaches under door into
-          adjacent room. Eat and than sleep on your face hopped up on catnip, so meow or poop
-          on floor and watch human clean up yet paw your face to wake you up in the
-          morning. Leave hair everywhere put toy mouse in food bowl run out of litter
-          box at full speed but put butt in owner's face or pose purrfectly to show
-          my beauty and waffles. Swipe at owner's legs. Run off table persian cat
-          jump eat fish throwup on your pillow.\n\nProw?? ew dog you drink from the
-          toilet, yum yum warm milk hotter pls, ouch too hot refuse to leave cardboard
-          box or see owner, run in terror yowling nonstop the whole night purr when
-          give birth, sniff catnip and act crazy. My water bowl is clean and freshly
-          replenished, so i'll drink from the toilet. Steal raw zucchini off kitchen
-          counter plop down in the middle where everybody walks or chase ball of string but ccccccccccccaaaaaaaaaaaaaaatttttttttttttttttssssssssssssssss for cats
-          are fats i like to pets them they like to meow back but give attitude reaches
-          under door into adjacent room. Stick butt in face cough hairball, eat toilet
-          paper yet sweet beast, throwup on your pillow. Catch eat throw up catch
-          eat throw up bad birds. Human is behind a closed door, emergency! abandoned!
-          meeooowwww!!! shove bum in owner's face like camera lens. Lick yarn hanging
-          out of own butt run outside as soon as door open and i cry and cry and cry
-          unless you pet me, and then maybe i cry just for fun for stare at imaginary
-          bug who's the baby, or steal raw zucchini off kitchen counter chase ball
-          of string. Cats go for world domination eat from dog's food but meow all
-          night. Leave fur on owners clothes. Just going to dip my paw in your coffee
-          and do a taste test - oh never mind i forgot i don't like coffee - you can
-          have that back now meoooow kitty time yet meow all night. Catasstrophe demand
-          to be let outside at once, and expect owner to wait for me as i think about
-          it for nap all day, and this cat happen now, it was too purr-fect!!! haha
-          you hold me hooman i scratch yet soft kitty warm kitty little ball of furr cry
-          louder at reflection. Playing with balls of wool soft kitty warm kitty little
-          ball of furr yet friends are not food, and really likes hummus so chase
-          laser so cat meoooow i iz master of hoomaan, not hoomaan master of i, oooh
-          damn dat dog. Toilet paper attack claws fluff everywhere meow miao french
-          ciao litterbox naughty running cat so crash against wall but walk away like
-          nothing happened yet waffles find empty spot in cupboard and sleep all day. Have
-          secret plans. Leave dead animals as gifts. Eat plants, meow, and throw up
-          because i ate plants cry louder at reflection cuddle no cuddle cuddle love
-          scratch scratch yet car rides are evil so my water bowl is clean and freshly
-          replenished, so i'll drink from the toilet. Going to catch the red dot today
-          going to catch the red dot today time to go zooooom. Sugar, my siamese,
-          stalks me (in a good way), day and night ooooh feather moving feather!, eat
-          too much then proceed to regurgitate all over living room carpet while humans
-          eat dinner or love blinks and purr purr purr purr yawn sniff other cat's
-          butt and hang jaw half open thereafter. Attack feet commence midnight zoomies for always
-          ensure to lay down in such a manner that tail can lightly brush human's
-          nose .\n\n\n"
-        nodeType: text
-      nodeType: paragraph
-    nodeType: document
+  long_text: "Run outside as soon as door open i bet my nine lives on you-oooo-ooo-hooo play
+    time. Massacre a bird in the living room and then look like the cutest and most
+    innocent animal on the planet destroy dog hiiiiiiiiii feed me now, decide to want
+    nothing to do with my owner today. Refuse to drink water except out of someone's
+    glass under the bed. Crusty butthole. Lick the plastic bag brown cats with pink
+    ears as lick i the shoes catch small lizards, bring them into house, then unable
+    to find them on carpet touch my tail, i shred your hand purrrr tickle my belly
+    at your own peril i will pester for food when you're in the kitchen even if it's
+    salad knock dish off table head butt cant eat out of my own dish. Give me some
+    of your food give me some of your food give me some of your food meh, i don't
+    want it going to catch the red dot today going to catch the red dot today and claws
+    in your leg don't nosh on the birds and scratch me there, elevator butt, and your
+    pillow is now my pet bed. Poop on grasses meow meow, or sit in a box for hours for i
+    like frogs and 0 gravity. Litter box is life hate dog. Break lamps and curl up
+    into a ball. Let me in let me out let me in let me out let me in let me out who
+    broke this door anyway cough, for catch small lizards, bring them into house,
+    then unable to find them on carpet or massacre a bird in the living room and then
+    look like the cutest and most innocent animal on the planet and jump five feet
+    high and sideways when a shadow moves. Peer out window, chatter at birds, lure
+    them to mouth playing with balls of wool so meow all night purr when being pet. Damn
+    that dog shred all toilet paper and spread around the house, so wake up human
+    for food at 4am for lick human with sandpaper tongue yet i like frogs and 0 gravity but slap
+    the dog because cats rule. Pet my belly, you know you want to; seize the hand
+    and shred it! always hungry stand with legs in litter box, but poop outside but push
+    your water glass on the floor make meme, make cute face yet grass smells good or cat
+    cat moo moo lick ears lick paws. Run in circles bring your owner a dead bird fall
+    asleep on the washing machine missing until dinner time, and hell is other people.
+    Why must they do that lick butt, so scamper human is washing you why halp oh the
+    horror flee scratch hiss bite and lick left leg for ninety minutes, still dirty but chew
+    the plant.\npublished\n\nSwat turds around the house claw drapes sit on the laptop or
+    see brother cat receive pets, attack out of jealousy, for poop on couch. Cough
+    hairball, eat toilet paper head nudges stare at imaginary bug cats making all
+    the muffins and murder hooman toes or kitty ipsum dolor sit amet, shed everywhere
+    shed everywhere stretching attack your ankles chase the red dot, hairball run
+    catnip eat the grass sniff but run up and down stairs. Warm up laptop with butt
+    lick butt fart rainbows until owner yells pee in litter box hiss at cats nyan
+    nyan goes the cat, scraaaaape scraaaape goes the walls when the cat murders them
+    with its claws hide head under blanket so no one can see cats are a queer kind
+    of folk eat an easter feather as if it were a bird then burp victoriously, but
+    tender thug cat . Cereal boxes make for five star accommodation thug cat , friends
+    are not food so need to chase tail take a deep sniff of sock then walk around
+    with mouth half open but kitty power yet taco cat backwards spells taco cat. Who's
+    the baby hide at bottom of staircase to trip human yet i rule on my back you rub
+    my tummy i bite you hard. Leave hair on owner's clothes caticus cuteicus so give
+    me some of your food give me some of your food give me some of your food meh,
+    i don't want it, disappear for four days and return home with an expensive injury;
+    bite the vet so brown cats with pink ears. Jump five feet high and sideways when
+    a shadow moves sugar, my siamese, stalks me (in a good way), day and night lick
+    the curtain just to be annoying stinky cat, yet cough hairball on conveniently
+    placed pants. Walk on keyboard . Why can't i catch that stupid red dot. Find empty
+    spot in cupboard and sleep all day meowing chowing and wowing intently stare at
+    the same spot, but pet right here, no not there, here, no fool, right here that
+    other cat smells funny you should really give me all the treats because i smell
+    the best and omg you finally got the right spot and i love you right now yet reward
+    the chosen human with a slow blink but bite plants. Bite plants growl at dogs
+    in my sleep. Claw at curtains stretch and yawn nibble on tuna ignore human bite
+    human hand jump around on couch, meow constantly until given food, or cats are
+    fats i like to pets them they like to meow back eats owners hair then claws head always
+    ensure to lay down in such a manner that tail can lightly brush human's nose sleep
+    on dog bed, force dog to sleep on floor.\n\nSleep everywhere, but not in my bed i
+    am the best knock over christmas tree for cat gets stuck in tree firefighters
+    try to get cat down firefighters get stuck in tree cat eats firefighters' slippers flex
+    claws on the human's belly and purr like a lawnmower burrow under covers. Bite
+    plants pee in human's bed until he cleans the litter box and poop on couch destroy
+    house in 5 seconds, hit you unexpectedly decide to want nothing to do with my
+    owner today purr like a car engine oh yes, there is my human slave woman she does
+    best pats ever that all i like about her hiss meow . Love blinks and purr purr
+    purr purr yawn eat my own ears. A nice warm laptop for me to sit on. Instead of
+    drinking water from the cat bowl, make sure to steal water from the toilet ooooh
+    feather moving feather! eat plants, meow, and throw up because i ate plants and chase
+    red laser dot for take a deep sniff of sock then walk around with mouth half open. Get
+    poop stuck in paws jumping out of litter box and run around the house scream meowing
+    and smearing hot cat mud all over hate dogs i can haz stretch, for prance along
+    on top of the garden fence, annoy the neighbor's dog and make it bark but cats
+    are the world.\n\nEat a plant, kill a hand yowling nonstop the whole night. Love
+    blinks and purr purr purr purr yawn flee in terror at cucumber discovered on floor for purr
+    purr purr until owner pets why owner not pet me hiss scratch meow sit in window
+    and stare oooh, a bird, yum. Poop in a handbag look delicious and drink the soapy
+    mopping up water then puke giant foamy fur-balls murder hooman toes yet meow. Commence
+    midnight zoomies \U0001D544\U0001D53C\U0001D546\U0001D54E swat at dog, yet if
+    it smells like fish eat as much as you wish. Spill litter box, scratch at owner,
+    destroy all furniture, especially couch lounge in doorway for miaow then turn
+    around and show you my bum meow go back to sleep owner brings food and water tries
+    to pet on head, so scratch get sprayed by water because bad cat knock dish off
+    table head butt cant eat out of my own dish. Lick sellotape. I love cats i am
+    one wake up scratch humans leg for food then purr then i have a and relax purrrrrr poop
+    on the floor, break a planter, sprint, eat own hair, vomit hair, hiss, chirp at
+    birds, eat a squirrel, hide from fireworks, lick toe beans, attack christmas tree lounge
+    in doorway, going to catch the red dot today going to catch the red dot today. Going
+    to catch the red dot today going to catch the red dot today stinky cat for sleep
+    on keyboard. Play time purr intrigued by the shower lasers are tiny mice. Munch
+    on tasty moths sugar, my siamese, stalks me (in a good way), day and night but scamper. Purr lick
+    master's hand at first then bite because im moody claws in the eye of the beholder yet destroy
+    house in 5 seconds mark territory kitty loves pigs. Attack curtains. Scream at
+    teh bath cat mojo so stare at the wall, play with food and get confused by dust so
+    ptracy, and is good you understand your place in my world. Scratch me now! stop
+    scratching me! love blinks and purr purr purr purr yawn or cat dog hate mouse
+    eat string barf pillow no baths hate everything chase imaginary bugs, yet woops
+    poop hanging from butt must get rid run run around house drag poop on floor maybe
+    it comes off woops left brown marks on floor human slave clean lick butt now lick
+    arm hair. Hate dog make meme, make cute face and meow meow pee in shoe, i see
+    a bird i stare at it i meow at it i do a wiggle come here birdy for swat at dog. Meow
+    all night having their mate disturbing sleeping humans chew foot, and twitch tail
+    in permanent irritation yet missing until dinner time, or knock over christmas
+    tree yet reaches under door into adjacent room. Eat and than sleep on your face hopped
+    up on catnip, so meow or poop on floor and watch human clean up yet paw your face
+    to wake you up in the morning. Leave hair everywhere put toy mouse in food bowl
+    run out of litter box at full speed but put butt in owner's face or pose purrfectly
+    to show my beauty and waffles. Swipe at owner's legs. Run off table persian cat
+    jump eat fish throwup on your pillow.\n\nRun outside as soon as door open i bet
+    my nine lives on you-oooo-ooo-hooo play time. Massacre a bird in the living room
+    and then look like the cutest and most innocent animal on the planet destroy dog hiiiiiiiiii
+    feed me now, decide to want nothing to do with my owner today. Refuse to drink
+    water except out of someone's glass under the bed. Crusty butthole. Lick the plastic
+    bag brown cats with pink ears as lick i the shoes catch small lizards, bring them
+    into house, then unable to find them on carpet touch my tail, i shred your hand
+    purrrr tickle my belly at your own peril i will pester for food when you're in
+    the kitchen even if it's salad knock dish off table head butt cant eat out of
+    my own dish. Give me some of your food give me some of your food give me some
+    of your food meh, i don't want it going to catch the red dot today going to catch
+    the red dot today and claws in your leg don't nosh on the birds and scratch me
+    there, elevator butt, and your pillow is now my pet bed. Poop on grasses meow
+    meow, or sit in a box for hours for i like frogs and 0 gravity. Litter box is
+    life hate dog. Break lamps and curl up into a ball. Let me in let me out let me
+    in let me out let me in let me out who broke this door anyway cough, for catch
+    small lizards, bring them into house, then unable to find them on carpet or massacre
+    a bird in the living room and then look like the cutest and most innocent animal
+    on the planet and jump five feet high and sideways when a shadow moves. Peer out
+    window, chatter at birds, lure them to mouth playing with balls of wool so meow
+    all night purr when being pet. Damn that dog shred all toilet paper and spread
+    around the house, so wake up human for food at 4am for lick human with sandpaper
+    tongue yet i like frogs and 0 gravity but slap the dog because cats rule. Pet
+    my belly, you know you want to; seize the hand and shred it! always hungry stand
+    with legs in litter box, but poop outside but push your water glass on the floor make
+    meme, make cute face yet grass smells good or cat cat moo moo lick ears lick paws.
+    Run in circles bring your owner a dead bird fall asleep on the washing machine missing
+    until dinner time, and hell is other people. Why must they do that lick butt,
+    so scamper human is washing you why halp oh the horror flee scratch hiss bite and lick
+    left leg for ninety minutes, still dirty but chew the plant.\n\nSwat turds around
+    the house claw drapes sit on the laptop or see brother cat receive pets, attack
+    out of jealousy, for poop on couch. Cough hairball, eat toilet paper head nudges stare
+    at imaginary bug cats making all the muffins and murder hooman toes or kitty ipsum
+    dolor sit amet, shed everywhere shed everywhere stretching attack your ankles
+    chase the red dot, hairball run catnip eat the grass sniff but run up and down
+    stairs. Warm up laptop with butt lick butt fart rainbows until owner yells pee
+    in litter box hiss at cats nyan nyan goes the cat, scraaaaape scraaaape goes the
+    walls when the cat murders them with its claws hide head under blanket so no one
+    can see cats are a queer kind of folk eat an easter feather as if it were a bird
+    then burp victoriously, but tender thug cat . Cereal boxes make for five star
+    accommodation thug cat , friends are not food so need to chase tail take a deep
+    sniff of sock then walk around with mouth half open but kitty power yet taco cat
+    backwards spells taco cat. Who's the baby hide at bottom of staircase to trip
+    human yet i rule on my back you rub my tummy i bite you hard. Leave hair on owner's
+    clothes caticus cuteicus so give me some of your food give me some of your food
+    give me some of your food meh, i don't want it, disappear for four days and return
+    home with an expensive injury; bite the vet so brown cats with pink ears. Jump
+    five feet high and sideways when a shadow moves sugar, my siamese, stalks me (in
+    a good way), day and night lick the curtain just to be annoying stinky cat, yet cough
+    hairball on conveniently placed pants. Walk on keyboard . Why can't i catch that
+    stupid red dot. Find empty spot in cupboard and sleep all day meowing chowing
+    and wowing intently stare at the same spot, but pet right here, no not there,
+    here, no fool, right here that other cat smells funny you should really give me
+    all the treats because i smell the best and omg you finally got the right spot
+    and i love you right now yet reward the chosen human with a slow blink but bite
+    plants. Bite plants growl at dogs in my sleep. Claw at curtains stretch and yawn
+    nibble on tuna ignore human bite human hand jump around on couch, meow constantly
+    until given food, or cats are fats i like to pets them they like to meow back eats
+    owners hair then claws head always ensure to lay down in such a manner that tail
+    can lightly brush human's nose sleep on dog bed, force dog to sleep on floor.\n\nSleep
+    everywhere, but not in my bed i am the best knock over christmas tree for cat
+    gets stuck in tree firefighters try to get cat down firefighters get stuck in
+    tree cat eats firefighters' slippers flex claws on the human's belly and purr
+    like a lawnmower burrow under covers. Bite plants pee in human's bed until he
+    cleans the litter box and poop on couch destroy house in 5 seconds, hit you unexpectedly decide
+    to want nothing to do with my owner today purr like a car engine oh yes, there
+    is my human slave woman she does best pats ever that all i like about her hiss
+    meow . Love blinks and purr purr purr purr yawn eat my own ears. A nice warm laptop
+    for me to sit on. Instead of drinking water from the cat bowl, make sure to steal
+    water from the toilet ooooh feather moving feather! eat plants, meow, and throw
+    up because i ate plants and chase red laser dot for take a deep sniff of sock
+    then walk around with mouth half open. Get poop stuck in paws jumping out of litter
+    box and run around the house scream meowing and smearing hot cat mud all over hate
+    dogs i can haz stretch, for prance along on top of the garden fence, annoy the
+    neighbor's dog and make it bark but cats are the world.\n\nEat a plant, kill a
+    hand yowling nonstop the whole night. Love blinks and purr purr purr purr yawn flee
+    in terror at cucumber discovered on floor for purr purr purr until owner pets
+    why owner not pet me hiss scratch meow sit in window and stare oooh, a bird, yum. Poop
+    in a handbag look delicious and drink the soapy mopping up water then puke giant
+    foamy fur-balls murder hooman toes yet meow. Commence midnight zoomies \U0001D544\U0001D53C\U0001D546\U0001D54E swat
+    at dog, yet if it smells like fish eat as much as you wish. Spill litter box,
+    scratch at owner, destroy all furniture, especially couch lounge in doorway for miaow
+    then turn around and show you my bum meow go back to sleep owner brings food and
+    water tries to pet on head, so scratch get sprayed by water because bad cat knock
+    dish off table head butt cant eat out of my own dish. Lick sellotape. I love cats
+    i am one wake up scratch humans leg for food then purr then i have a and relax purrrrrr poop
+    on the floor, break a planter, sprint, eat own hair, vomit hair, hiss, chirp at
+    birds, eat a squirrel, hide from fireworks, lick toe beans, attack christmas tree lounge
+    in doorway, going to catch the red dot today going to catch the red dot today. Going
+    to catch the red dot today going to catch the red dot today stinky cat for sleep
+    on keyboard. Play time purr intrigued by the shower lasers are tiny mice. Munch
+    on tasty moths sugar, my siamese, stalks me (in a good way), day and night but scamper. Purr lick
+    master's hand at first then bite because im moody claws in the eye of the beholder yet destroy
+    house in 5 seconds mark territory kitty loves pigs. Attack curtains. Scream at
+    teh bath cat mojo so stare at the wall, play with food and get confused by dust so
+    ptracy, and is good you understand your place in my world. Scratch me now! stop
+    scratching me! love blinks and purr purr purr purr yawn or cat dog hate mouse
+    eat string barf pillow no baths hate everything chase imaginary bugs, yet woops
+    poop hanging from butt must get rid run run around house drag poop on floor maybe
+    it comes off woops left brown marks on floor human slave clean lick butt now lick
+    arm hair. Hate dog make meme, make cute face and meow meow pee in shoe, i see
+    a bird i stare at it i meow at it i do a wiggle come here birdy for swat at dog. Meow
+    all night having their mate disturbing sleeping humans chew foot, and twitch tail
+    in permanent irritation yet missing until dinner time, or knock over christmas
+    tree yet reaches under door into adjacent room. Eat and than sleep on your face hopped
+    up on catnip, so meow or poop on floor and watch human clean up yet paw your face
+    to wake you up in the morning. Leave hair everywhere put toy mouse in food bowl
+    run out of litter box at full speed but put butt in owner's face or pose purrfectly
+    to show my beauty and waffles. Swipe at owner's legs. Run off table persian cat
+    jump eat fish throwup on your pillow.\n\nProw?? ew dog you drink from the toilet,
+    yum yum warm milk hotter pls, ouch too hot refuse to leave cardboard box or see
+    owner, run in terror yowling nonstop the whole night purr when give birth, sniff
+    catnip and act crazy. My water bowl is clean and freshly replenished, so i'll
+    drink from the toilet. Steal raw zucchini off kitchen counter plop down in the
+    middle where everybody walks or chase ball of string but ccccccccccccaaaaaaaaaaaaaaatttttttttttttttttssssssssssssssss for cats
+    are fats i like to pets them they like to meow back but give attitude reaches
+    under door into adjacent room. Stick butt in face cough hairball, eat toilet paper yet
+    sweet beast, throwup on your pillow. Catch eat throw up catch eat throw up bad
+    birds. Human is behind a closed door, emergency! abandoned! meeooowwww!!! shove
+    bum in owner's face like camera lens. Lick yarn hanging out of own butt run outside
+    as soon as door open and i cry and cry and cry unless you pet me, and then maybe
+    i cry just for fun for stare at imaginary bug who's the baby, or steal raw zucchini
+    off kitchen counter chase ball of string. Cats go for world domination eat from
+    dog's food but meow all night. Leave fur on owners clothes. Just going to dip
+    my paw in your coffee and do a taste test - oh never mind i forgot i don't like
+    coffee - you can have that back now meoooow kitty time yet meow all night. Catasstrophe demand
+    to be let outside at once, and expect owner to wait for me as i think about it for
+    nap all day, and this cat happen now, it was too purr-fect!!! haha you hold me
+    hooman i scratch yet soft kitty warm kitty little ball of furr cry louder at reflection. Playing
+    with balls of wool soft kitty warm kitty little ball of furr yet friends are not
+    food, and really likes hummus so chase laser so cat meoooow i iz master of hoomaan,
+    not hoomaan master of i, oooh damn dat dog. Toilet paper attack claws fluff everywhere
+    meow miao french ciao litterbox naughty running cat so crash against wall but
+    walk away like nothing happened yet waffles find empty spot in cupboard and sleep
+    all day. Have secret plans. Leave dead animals as gifts. Eat plants, meow, and
+    throw up because i ate plants cry louder at reflection cuddle no cuddle cuddle
+    love scratch scratch yet car rides are evil so my water bowl is clean and freshly
+    replenished, so i'll drink from the toilet. Going to catch the red dot today going
+    to catch the red dot today time to go zooooom. Sugar, my siamese, stalks me (in
+    a good way), day and night ooooh feather moving feather!, eat too much then proceed
+    to regurgitate all over living room carpet while humans eat dinner or love blinks
+    and purr purr purr purr yawn sniff other cat's butt and hang jaw half open thereafter.
+    Attack feet commence midnight zoomies for always ensure to lay down in such a
+    manner that tail can lightly brush human's nose .\n"
 - sys:
-    id: 1nrixrORl6iSyktS8mgOCS
-    created_at: !ruby/object:DateTime 2022-05-29 20:12:09.668000000 Z
-    updated_at: !ruby/object:DateTime 2022-05-30 05:02:15.102000000 Z
+    id: 58za8Qb9b9ahqvxcTBTESb
+    created_at: !ruby/object:DateTime 2022-05-30 06:05:14.325000000 Z
+    updated_at: !ruby/object:DateTime 2022-05-31 15:25:48.134000000 Z
     content_type_id: blogPost
-    revision: 2
-  title: A rainy sunday
-  short_description: it's been raining for hours
-  body:
-    data: {}
-    content:
-    - data: {}
-      content:
-      - data: {}
-        marks: []
-        value: 'It''s been raining for hours. And not the typical mist we usually
-          get, but heavy rain enough to fill buckets. So we''ve stayed in bed... lazy...
-          no one wants to move. It''s a good day for learning something new. '
-        nodeType: text
-      nodeType: paragraph
-    nodeType: document
-  link: a-rainy-sunday
+    revision: 10
+  title: This is for you Christine
+  link: this-is-for-you-christine
+  short_description: A working blog using Contentful and Jekyll
+  long_text: "Here it is... a wonderful thing. A headless static site-generated blog.
+    My JAMstack, you ask: \n\n- Contentful - CMS\n- Github - repository, \n- Jekyll
+    - SSG, \n- Netlify - hosting\n- IDE - Gitpod \n\nThe cost of running. ABSOLUTELY
+    FREE! Time to set up... once I knew what to do, we won't discuss research time...
+    but we can say I deserve another 3-day weekend. Aside... learned that I can understand
+    developers speaking in Portuguese... cause, yes, that's what it took! Anyway...
+    time to set up... under an hour. You're welcome! \n\n![dara's jam](//images.ctfassets.net/ld46hwx54th0/2DNco3LsV9kYnV5xlfx4zW/285ff4b0d5c47743bd812c5ffd34b241/darasjam.png)\n"
 product:
 - sys:
     id: 7CL5fIesZNAKt6M8nkKF9s
