@@ -35,9 +35,9 @@ plugins:
 contentful:
   spaces:
     - demo:                    # Jekyll _data folder identifier - Required
-       space: ENV['space'] 
-       access_token: ENV['access_token']
-       destination: contentful
+        space: ld46hwx54th0                # Required - should be moved to secret area
+        access_token: A-KRZEeBW2NJwuxDVQ2CkNmEFpu_HHYc7xG-J0bNnO8          # Required - should be moved to secret area
+        destination: contentful
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
