@@ -35,8 +35,8 @@ plugins:
 contentful:
   spaces:
     - demo:                    # Jekyll _data folder identifier - Required
-        space: ld46hwx54th0                # Required - should be moved to secret area
-        access_token: A-KRZEeBW2NJwuxDVQ2CkNmEFpu_HHYc7xG-J0bNnO8          # Required - should be moved to secret area
+        space: <%= ENV['space'] %>              # Required - should be moved to secret area
+        access_token: <%= ENV['access_token'] %>         # Required - should be moved to secret area
         destination: contentful
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
