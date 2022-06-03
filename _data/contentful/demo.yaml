@@ -1,6 +1,49 @@
 ---
 blogPost:
 - sys:
+    id: 5gcjacnFkpYDhOFMQnluPQ
+    created_at: !ruby/object:DateTime 2022-05-31 15:59:46.557000000 Z
+    updated_at: !ruby/object:DateTime 2022-06-01 17:10:38.214000000 Z
+    content_type_id: blogPost
+    revision: 4
+  title: Hey Tiffany! I already Jam!
+  link: hey-tiffany-i-already-jam
+  short_description: When you finally sit down to figure out what JAMStack is....
+  long_text: |-
+    Only to realize you've already been JAMStacking -- LOLOLOLOL
+
+    ![Was this JAMSTack](//images.ctfassets.net/ld46hwx54th0/6etskwlDvXx7JGLdRbL6uB/db0bda48455088fd14e3baffc8fc239f/Screen_Shot_2022-05-29_at_9.08.18_AM.png)
+  related:
+  - sys:
+      id: 1nrixrORl6iSyktS8mgOCS
+      created_at: !ruby/object:DateTime 2022-05-29 20:12:09.668000000 Z
+      updated_at: !ruby/object:DateTime 2022-05-31 15:27:04.558000000 Z
+      content_type_id: blogPost
+      revision: 3
+    title: A rainy sunday
+    link: a-rainy-sunday
+    short_description: it's been raining for hours
+    long_text: 'It''s been raining for hours. And not the typical mist we usually
+      get, but heavy rain enough to fill buckets. So we''ve stayed in bed... lazy...
+      no one wants to move. It''s a good day for learning something new. '
+  - sys:
+      id: 58za8Qb9b9ahqvxcTBTESb
+      created_at: !ruby/object:DateTime 2022-05-30 06:05:14.325000000 Z
+      updated_at: !ruby/object:DateTime 2022-05-31 15:25:48.134000000 Z
+      content_type_id: blogPost
+      revision: 10
+    title: This is for you Christine
+    link: this-is-for-you-christine
+    short_description: A working blog using Contentful and Jekyll
+    long_text: "Here it is... a wonderful thing. A headless static site-generated
+      blog. My JAMstack, you ask: \n\n- Contentful - CMS\n- Github - repository, \n-
+      Jekyll - SSG, \n- Netlify - hosting\n- IDE - Gitpod \n\nThe cost of running.
+      ABSOLUTELY FREE! Time to set up... once I knew what to do, we won't discuss
+      research time... but we can say I deserve another 3-day weekend. Aside... learned
+      that I can understand developers speaking in Portuguese... cause, yes, that's
+      what it took! Anyway... time to set up... under an hour. You're welcome! \n\n![dara's
+      jam](//images.ctfassets.net/ld46hwx54th0/2DNco3LsV9kYnV5xlfx4zW/285ff4b0d5c47743bd812c5ffd34b241/darasjam.png)\n"
+- sys:
     id: 1nrixrORl6iSyktS8mgOCS
     created_at: !ruby/object:DateTime 2022-05-29 20:12:09.668000000 Z
     updated_at: !ruby/object:DateTime 2022-05-31 15:27:04.558000000 Z
